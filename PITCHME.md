@@ -30,7 +30,7 @@ Note:
 - CSP
 - PWA
 
----?image=assets/slide1.png
+---?image=assets/global_hyper_mega_corp.jpg
 
 Note:
 - Approach to developing app
