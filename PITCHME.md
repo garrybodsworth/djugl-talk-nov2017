@@ -26,27 +26,26 @@ Note:
 
 Note:
 - Approach to how we built the app
-- Dependencies
-- CSP
-- PWA
+- Dependencies - making sure it was all packaged up
+- CSP - delivering static assets
+- PWA - discovered not to make it work offline
 
 ---?image=assets/global_hyper_mega_corp.jpg
 
 Note:
-- Approach to developing app
 - Improve the web app
-- Showing PDFs
-- Title bar
-- Fixing UI, Swipe, datatables, calendar, sidebar
+- Showing PDFs - event bus, messaging, VueX
+- Title bar - also iPhoneX compatibility
+- Fixing UI, Swipe, datatables, calendar/time, sidebar
 
 ---?image=assets/slide4.png
 
 Note:
-- Native login
-- Web view
-- Messaging
-- Push notifications
-- Updates
+- Native login - To get the credentials
+- Web view - simple?
+- Messaging to native - bridging the divide between native and web
+- Push notifications - showing proper push notifications
+- Updates - being able to prompt user on breaking API changes
 
 ---?image=assets/slide5.png
 
@@ -67,7 +66,7 @@ Note:
 
 Note:
 - Shipping iOS and Android
-- Web experience improved massively
+- Web experience improved significantly
 
 ---
 
@@ -75,4 +74,4 @@ Note:
 
 [@garrybodsworth](https://twitter.com/garrybodsworth)
 
-[https://github.com/garrybodsworth/djugl-talk-june2017](https://github.com/garrybodsworth/djugl-talk-june2017)
+[https://github.com/garrybodsworth](https://github.com/garrybodsworth)
