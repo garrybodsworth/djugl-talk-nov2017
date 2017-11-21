@@ -43,8 +43,10 @@ Note:
 - Shipping iOS and Android
 - Web experience improved on desktop and mobile
 - Webpush
----
-![Lonely Man](assets/lonelyman.gif)
+---?image=assets/the_end.jpg
 Note:
 - Shipping iOS and Android
 - Web experience improved massively
+---
+![Lonely Man](assets/lonelyman.gif)
+[@garrybodsworth](https://twitter.com/garrybodsworth)
