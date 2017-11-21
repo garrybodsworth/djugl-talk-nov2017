@@ -3,15 +3,19 @@
 [@garrybodsworth](https://twitter.com/garrybodsworth)
 Note:
 - Intro
+- Yagro - Head Of Engineering
+- Previous talks - AWS, killing PHP
 ---?image=assets/slide1.png
 Note:
 - Yagro
 - PHP -> Django/VueJS
 - Features
+- How we did development
 ---?image=assets/slide2.png
 Note:
 - VueJS
 - Webpack
+- API
 ---?image=assets/slide3.png
 Note:
 - Approach to how we built the app
@@ -47,6 +51,6 @@ Note:
 Note:
 - Shipping iOS and Android
 - Web experience improved massively
----
 ![Lonely Man](assets/lonelyman.gif)
 [@garrybodsworth](https://twitter.com/garrybodsworth)
+[https://github.com/garrybodsworth/djugl-talk-june2017](https://github.com/garrybodsworth/djugl-talk-june2017)
