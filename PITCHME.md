@@ -56,7 +56,7 @@ Note:
 - Mixin
 - Front and backend versioning
 
----?image=assets/slide6.png
+---?image=assets/italian_spiderman.gif
 
 Note:
 - Shipping iOS and Android
